@@ -42,7 +42,7 @@ Mapty is a vanilla JavaScript application that interacts with the Leaflet librar
 - CSS 3
 - JavaScript
 - NPM
-- Leaf library 
+- Leaflet
 
 ### What I learned
 
